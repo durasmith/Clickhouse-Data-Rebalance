@@ -16,3 +16,4 @@ connection_str = os.getenv("CONN")
 newline = '\n'
 version_number = str(random.randint(1, 10))
 cluster = '{cluster}'
+'''cluster = '{cluster}'
